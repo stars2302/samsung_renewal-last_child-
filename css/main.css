@@ -237,6 +237,7 @@ color: #000;
 	z-index: 99999;
 	font-size: 16px;
 	line-height: 25px;
+	color: #3d3d3d;
 }
 
 .popup a {
@@ -260,6 +261,10 @@ color: #000;
 .popup .info a,
 .popup span {
   color: var(--black);
+}
+
+.popup span.bold {
+	font-weight: bold;
 }
 
 .popup #close {
