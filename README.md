@@ -104,5 +104,31 @@
 
 ## 구현 전체페이지
 
+### Main Page
+
+|Header|
+|:-:|
+|<img width=600 src="https://github.com/stars2302/samsung_renewal-last_child-/assets/110519070/8cc9d39f-87e2-4c7c-b01d-f060f88b088c">|
+
+|Header|
+|:-:|
+|<img width=600 src="https://github.com/stars2302/samsung_renewal-last_child-/assets/110519070/8cc9d39f-87e2-4c7c-b01d-f060f88b088c">|
+
+
+
+|Header|
+|:-:|
+|<img width=600 src="https://github.com/stars2302/samsung_renewal-last_child-/assets/110519070/8cc9d39f-87e2-4c7c-b01d-f060f88b088c">|
+
+|Header|
+|:-:|
+|<img width=600 src="https://github.com/stars2302/samsung_renewal-last_child-/assets/110519070/8cc9d39f-87e2-4c7c-b01d-f060f88b088c">|
+
+|Header|
+|:-:|
+|<img width=600 src="https://github.com/stars2302/samsung_renewal-last_child-/assets/110519070/8cc9d39f-87e2-4c7c-b01d-f060f88b088c">|
+
+
+
 <br>
 <br>
